@@ -1,2 +1,2 @@
-# envelope-animation
+# gsap scroll animation
 Asahi Envelope Animation  
