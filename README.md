@@ -1,2 +1,2 @@
 # gsap scroll animation
-Asahi Envelope Animation  
+scrolling issue fixing
